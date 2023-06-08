@@ -18,5 +18,27 @@ Seu programa deve ler vários conjuntos de testes. A primeira linha de um conjun
 
 Para cada conjunto de teste da entrada seu programa deve produzir duas linhas na saída. A primeira linha deve conter um identificador do conjunto de teste, no formato “Teste n”, onde n é numerado a partir de 1. A segunda linha deve conter o número de meteoritos que caíram dentro da fazenda.
 
+##### Exemplo de Entrada
+```
+2 4 5 1
+2
+1 2
+3 3
+2 4 3 2
+3
+1 1
+2 2
+3 3
+0 0 0 0
+```
+
+##### Exemplo de Saída
+```
+Teste 1
+1
+Teste 2
+2
+```
+
 ## References
 https://www.beecrowd.com.br/judge/en/problems/view/3068
